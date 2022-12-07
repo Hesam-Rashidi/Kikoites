@@ -1,2 +1,2 @@
 # Kikoites
-Eutrophication in Gull Lake
+Eutrophication at Gull Lake
