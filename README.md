@@ -9,9 +9,9 @@ The goal of the work carried out in this repository was first of all to do an ex
 ## Table of contents
 The code contains the following sections:
 * [Main sections](#Main-sections)
-** [Geospatial analysis](#Geospatial-analysis)
-** [Time series analysis](#Time-series-analysis)
-** [Cleaning and modeling](#Cleaning-and-modeling)
+* [Geospatial analysis](#Geospatial-analysis)
+* [Time series analysis](#Time-series-analysis)
+* [Cleaning and modeling](#Cleaning-and-modeling)
 * [Technologies](#Technologies)
 
 # Main sections
