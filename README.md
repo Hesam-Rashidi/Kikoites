@@ -15,13 +15,13 @@ The code contains the following sections:
 * [Setup](#Setup)
 
 ## Geospatial analysis
-Preparation of maps showing the location of points from which samples were taken, as well as the dissolved oxygen (DO) level at these different points.
+Preparation of maps showing the location of points from which samples were taken, as well as a comparison in relative phospherous at these different points.
 
 ![image](https://user-images.githubusercontent.com/61752640/206346374-480e4f90-3c4f-4bb5-a903-6779e63c08b5.png)
 
 
 ## Time series analysis
-Studying the daily and monthly evolution of DO and the different indicators of the lake's health.
+Studying the daily and monthly evolution of DO and phosphorous at the Camp Creek Outflow.
 
 ![Variation during August 2022_4](https://user-images.githubusercontent.com/61752640/206352012-27040d0f-3df3-42cf-848f-80957e768712.png)
 
