@@ -8,15 +8,15 @@ The goal of the work carried out in this repository was first of all to do an ex
 
 ## Table of contents
 The code contains the following sections:
-* [Main sections](#Main-sections)
 * [Geospatial analysis](#Geospatial-analysis)
 * [Time series analysis](#Time-series-analysis)
 * [Cleaning and modeling](#Cleaning-and-modeling)
 * [Technologies](#Technologies)
 
-# Main sections
 ## Geospatial analysis
 Preparation of maps showing the location of points from which samples were taken, as well as the dissolved oxygen (DO) level at these different points.
+
+![image](https://user-images.githubusercontent.com/61752640/206346374-480e4f90-3c4f-4bb5-a903-6779e63c08b5.png)
 
 
 ## Time series analysis
@@ -26,7 +26,13 @@ Studying the daily and monthly evolution of DO and the different indicators of t
 ## Cleaning and modeling
 The final data preparation and the logistic regression that was carried out to predict when eutrophication would take place based on other variables for which data was collected.
 
+![image](https://user-images.githubusercontent.com/61752640/206345994-20fdaa21-0374-41d4-8430-21b634a5bf17.png)
+
 ## Technologies
-The 
+The analysis was carried out with:
+- sklearn 1.1.3
+- seaborn 0.12.1
+- matplotlib 3.6.2
+- geopandas 0.12
 
 
