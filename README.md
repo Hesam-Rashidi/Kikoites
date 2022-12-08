@@ -23,6 +23,8 @@ Preparation of maps showing the location of points from which samples were taken
 ## Time series analysis
 Studying the daily and monthly evolution of DO and the different indicators of the lake's health.
 
+![Variation during August 2022_4](https://user-images.githubusercontent.com/61752640/206352012-27040d0f-3df3-42cf-848f-80957e768712.png)
+
 
 ## Cleaning and modeling
 The final data preparation and the logistic regression that was carried out to predict when eutrophication would take place based on other variables for which data was collected.
@@ -39,6 +41,6 @@ The analysis was carried out with:
 - folium 0.13.0
 
 ## Setup
-Clone this repo onto your desktop and [install anaconda](https://docs.anaconda.com/anaconda/install/index.html). Next run `conda install` for all the libraries listed in the list of dependencies. Finally, run the notebooks by clicking on 'Run All' as shown below:
+Clone this repo onto your desktop and [install anaconda](https://docs.anaconda.com/anaconda/install/index.html). Next run `conda install` for all the libraries listed in the list of dependencies. Finally, run the notebooks by clicking on 'Run All' as shown below: <br>
 ![Run All](https://user-images.githubusercontent.com/61752640/206351826-78fa3e47-2b3d-4edf-ad22-4092daaac6c9.png) 
 
