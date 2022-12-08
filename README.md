@@ -12,6 +12,7 @@ The code contains the following sections:
 * [Time series analysis](#Time-series-analysis)
 * [Cleaning and modeling](#Cleaning-and-modeling)
 * [Technologies](#Technologies)
+* [Setup](#Setup)
 
 ## Geospatial analysis
 Preparation of maps showing the location of points from which samples were taken, as well as the dissolved oxygen (DO) level at these different points.
@@ -34,5 +35,10 @@ The analysis was carried out with:
 - seaborn 0.12.1
 - matplotlib 3.6.2
 - geopandas 0.12
+- pandas 1.5.2
+- folium 0.13.0
 
+## Setup
+Clone this repo onto your desktop and [install anaconda](https://docs.anaconda.com/anaconda/install/index.html). Next run `conda install` for all the libraries listed in the list of dependencies. Finally, run the notebooks by clicking on 'Run All' as shown below:
+![Run All](https://user-images.githubusercontent.com/61752640/206351826-78fa3e47-2b3d-4edf-ad22-4092daaac6c9.png) 
 
