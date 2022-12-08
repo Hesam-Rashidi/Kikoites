@@ -8,10 +8,13 @@ The goal of the work carried out in this repository was first of all to do an ex
 
 ## Table of contents
 The code contains the following sections:
-* [Geospatial analysis](#Geospatial-analysis)
-* [Time series analysis](#Time-series-analysis)
-* [Cleaning and modeling](#Cleaning-and-modeling)
+* [Main sections](#Main-sections)
+** [Geospatial analysis](#Geospatial-analysis)
+** [Time series analysis](#Time-series-analysis)
+** [Cleaning and modeling](#Cleaning-and-modeling)
+* [Technologies](#Technologies)
 
+# Main sections
 ## Geospatial analysis
 Preparation of maps showing the location of points from which samples were taken, as well as the dissolved oxygen (DO) level at these different points.
 
@@ -22,5 +25,8 @@ Studying the daily and monthly evolution of DO and the different indicators of t
 
 ## Cleaning and modeling
 The final data preparation and the logistic regression that was carried out to predict when eutrophication would take place based on other variables for which data was collected.
+
+## Technologies
+The 
 
 
